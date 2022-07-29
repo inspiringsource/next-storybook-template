@@ -1,3 +1,11 @@
+A complete boilerplate application architecture to start with a small team and scale up to a production-ready application. 
+
+- Dir Structure
+- Prettier
+- ES lint
+- Git Hooks
+- Storybook (Webpack5)
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
